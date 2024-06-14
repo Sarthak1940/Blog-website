@@ -6,6 +6,7 @@ import { TagPage } from './Pages/TagPage';
 import { CategoryPage } from './Pages/CategoryPage';
 import {BlogPage}  from './Pages/BlogPage';
 
+// starting file
 function App() {
 
   const {fetchBlogData} = useContext(AppContext);
